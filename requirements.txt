@@ -1,0 +1,13 @@
+# Web framework
+streamlit
+
+# Data handling
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+
+# Optional: for visualizations if needed
+matplotlib
+seaborn
