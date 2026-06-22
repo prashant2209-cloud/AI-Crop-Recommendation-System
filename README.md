@@ -2,7 +2,7 @@
 
 A machine learning-powered web application that recommends the best crops based on soil and weather parameters.
 
-🚀 **[Live Demo]( [https://ai-crop-decommendation.streamlit.app/] )** |
+
 ## Screenshots
 
 <img width="1902" alt="Main Interface" src="https://github.com/user-attachments/assets/2ec830ad-9661-41c9-a8fa-efd7e8b5d3ec" />
@@ -82,3 +82,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 
 ⭐ Star this repository if you find it helpful!
+🚀 [Live Demo](https://ai-crop-decommendation.streamlit.app/)
